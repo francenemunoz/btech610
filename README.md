@@ -1,5 +1,5 @@
 # Title: Lab6 Reproducible
-- Author: Your Name
+- Author: Fran
 - Date: 10/14
 
 This is my first markdown notebook.
